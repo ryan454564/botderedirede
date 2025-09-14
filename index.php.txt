@@ -1,0 +1,5 @@
+<?php
+// Redireciona para o link do bot do Telegram
+header('Location: https://t.me/OmegleBRVip2_Bot');
+exit;
+?>
